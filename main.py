@@ -73,5 +73,5 @@ evaluate_responses(
     output_csv='result.csv',
     rubrics=['Rule_Adherence','Extra_corrections' ],
     rubric_weights=[0.6, 0.4],
-    api_key='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'
+    api_key=''
 )

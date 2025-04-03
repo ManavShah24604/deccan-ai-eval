@@ -73,5 +73,5 @@ evaluate_responses(
     output_csv='result.csv',
     rubrics=['correct_response', 'accuracy', 'depth', 'clarity', 'grammar'],
     rubric_weights=[0.3, 0.3, 0.1, 0.1, 0.1],
-    api_key='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'
+    api_key=''
 )
