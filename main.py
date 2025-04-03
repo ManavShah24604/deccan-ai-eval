@@ -73,5 +73,4 @@ evaluate_responses(
     output_csv='result.csv',
     rubrics=['Rule_Adherence','Extra_corrections' ],
     rubric_weights=[0.6, 0.4],
-    api_key=''
 )

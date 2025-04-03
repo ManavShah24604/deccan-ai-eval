@@ -73,5 +73,4 @@ evaluate_responses(
     output_csv='result.csv',
     rubrics=['correct_response', 'accuracy', 'depth', 'clarity', 'grammar'],
     rubric_weights=[0.3, 0.3, 0.1, 0.1, 0.1],
-    api_key=''
 )
